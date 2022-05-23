@@ -3,6 +3,7 @@ All my BI intelligence Projects using PowerBI
  
 ___PROJECT 1___
 __Globalstore Data Analysis Project__ 
+[Globalstore sales project.pdf](https://github.com/vaibhavpatidar799/Power-BI-Projects/files/8752336/Globalstore.sales.project.pdf)
 
 In this project I have gone through some important steps-
 
@@ -23,6 +24,8 @@ __KEY-TAKE AWAY__
 
 ___PROJECT 2___
 __HR ANALYTICS__
+[HR Analysis.pdf](https://github.com/vaibhavpatidar799/Power-BI-Projects/files/8752340/HR.Analysis.pdf)
+
 
 The Steps Involved are-
 1) GETTING DATA FROM SOURCE.
