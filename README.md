@@ -13,12 +13,12 @@ In this project I have gone through some important steps-
 5) GENERATING INSIGHTS AND VISUALIZATION. 
 
 __KEY-TAKE AWAY__
--Sales on yearly basis.
--Sales by segment
--Total Quantities sold.
--Sales Trend.
--Total Profit and Loss.
--Previous Year Sales vs Current Year Sales etc.
+-    Sales on yearly basis.
+-    Sales by segment
+-    Total Quantities sold.
+-    Sales Trend.
+-    Total Profit and Loss.
+-    Previous Year Sales vs Current Year Sales etc.
 
 
 ___PROJECT 2___
